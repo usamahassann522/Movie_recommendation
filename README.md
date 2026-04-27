@@ -36,8 +36,9 @@ Source: https://grouplens.org/datasets/movielens/
 
 ## ▶️ How to Run
 1. Open the notebook in Google Colab
-2. Install required libraries:
-3. 3. Run all cells
+2. Upload MovieLens files or mount Google Drive before running
+3. Install required libraries:
+4. 3. Run all cells
 
 ## 👤 Author
 Usama Hassan  
